@@ -1,1 +1,2 @@
 # alga_hazik
+szia
