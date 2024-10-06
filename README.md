@@ -1,2 +1,0 @@
-# alga_hazik
-szia
