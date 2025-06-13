@@ -1,6 +1,6 @@
 # Link a feladathoz: https://www.spoj.com/problems/GCPC11J/
 ## Feladat:
-* Adoot egy körmentes hálózat és az a dolgunk, hogy elhelyzünk egy router-t benne úgy, hogy az a lehető legoptimálisabb legyen. 
+* Adott egy körmentes hálózat és az a dolgunk, hogy elhelyzünk egy router-t benne úgy, hogy az a lehető legoptimálisabb legyen. 
 * Feladatunk az, hogy kiszámoljuk mennyi volna a legoptimálisab azaz legkisebb Time to live (TTL) értéke.
 ##Input:
 * Első teszt esetek száma 1 ≤ c ≤ 100
